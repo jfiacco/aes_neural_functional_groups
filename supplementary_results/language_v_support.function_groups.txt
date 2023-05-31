@@ -1,0 +1,173 @@
+*Functional Component Group: 0
+    * Corr. w/ LANGUAGE: -0.356 (p<0.002)
+    * Corr. w/ SUPPORT: -0.249 (p<0.035)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   7
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  17
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  21
+
+ Functional Component Group: 1
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  29
+
+*Functional Component Group: 2
+    * Corr. w/ SUPPORT: -0.347 (p<0.003)
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   9
+
+*Functional Component Group: 3
+    * Corr. w/ diff_LANG-vs-SUPP: -0.462 (p<0.000)
+    * Corr. w/ diff_SUPP_pred-vs-actual: -0.619 (p<0.000)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   7
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  15
+
+ Functional Component Group: 4
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  33
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  20
+
+*Functional Component Group: 5
+    * Corr. w/ SUPPORT: -0.241 (p<0.041)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  26
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  12
+
+ Functional Component Group: 6
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  28
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   6
+
+ Functional Component Group: 7
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  16
+
+ Functional Component Group: 8
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   4
+
+ Functional Component Group: 9
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  27
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  15
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   8
+
+*Functional Component Group: 10
+    * Corr. w/ diff_LANG-vs-SUPP: 0.305 (p<0.009)
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  18
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  10
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  27
+
+ Functional Component Group: 11
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  22
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   4
+
+ Functional Component Group: 12
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  13
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  12
+
+ Functional Component Group: 13
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   8
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  13
+
+ Functional Component Group: 14
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  14
+
+ Functional Component Group: 15
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  15
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  12
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   4
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  30
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  23
+
+*Functional Component Group: 16
+    * Corr. w/ LANGUAGE: 0.331 (p<0.004)
+    * Corr. w/ SUPPORT: 0.305 (p<0.009)
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  14
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   5
+
+ Functional Component Group: 17
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  19
+
+ Functional Component Group: 18
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   6
+
+*Functional Component Group: 19
+    * Corr. w/ LANGUAGE: 0.342 (p<0.003)
+    * Corr. w/ SUPPORT: 0.328 (p<0.005)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  20
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  27
+
+*Functional Component Group: 20
+    * Corr. w/ diff_LANG_pred-vs-actual: -0.283 (p<0.016)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   3
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  11
+
+ Functional Component Group: 21
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   5
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   1
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  14
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  15
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  25
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  17
+
+ Functional Component Group: 22
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   3
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  18
+
+ Functional Component Group: 23
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  30
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  10
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  27
+
+ Functional Component Group: 24
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   2
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  26
+
+ Functional Component Group: 25
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  24
+
+*Functional Component Group: 26
+    * Corr. w/ LANGUAGE: 0.252 (p<0.033)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  17
+
+*Functional Component Group: 27
+    * Corr. w/ diff_LANG-vs-SUPP: -0.472 (p<0.000)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   9
+
+ Functional Component Group: 28
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  11
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   5
+
+*Functional Component Group: 29
+    * Corr. w/ diff_LANG_pred-vs-actual: -0.506 (p<0.000)
+    * Corr. w/ diff_SUPP_pred-vs-actual: -0.447 (p<0.000)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  21
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  24
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  15
+
+ Functional Component Group: 30
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  21
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  10
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  12
+
+ Functional Component Group: 31
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   0
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   2
+
+*Functional Component Group: 32
+    * Corr. w/ diff_LANG-vs-SUPP: -0.237 (p<0.045)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  31
+
+ Functional Component Group: 33
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  25
+
+*Functional Component Group: 34
+    * Corr. w/ LANGUAGE: 0.277 (p<0.018)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  23
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   8
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  23
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  12
+
+ Functional Component Group: 35
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  22
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   1
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  28
+
+ Functional Component Group: 36
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  19
+
+ Functional Component Group: 37
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  32
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   0
+

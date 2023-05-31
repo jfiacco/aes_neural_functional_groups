@@ -1,0 +1,8 @@
+Num. Data Instances: 72
+
+Model: LANGUAGE, Num. Functional Components: 34
+Model: SUPPORT, Num. Functional Components: 28
+Num. Functional Component Groups: 38
+
+Num. Base Features: 67
+Num. Independent Features: 38

@@ -1,0 +1,8 @@
+Num. Data Instances: 260
+
+Model: SUPPORT, Num. Functional Components: 45
+Model: MAIN-IDEA, Num. Functional Components: 49
+Num. Functional Component Groups: 64
+
+Num. Base Features: 127
+Num. Independent Features: 94

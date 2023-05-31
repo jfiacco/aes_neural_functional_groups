@@ -1,0 +1,1 @@
+This supplementary file contains the complete set of figures and correlations pertaining to the alignment of functional groups with feature groups in the context of neural Automatic Essay Scoring systems.

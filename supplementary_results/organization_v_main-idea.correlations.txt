@@ -1,0 +1,303 @@
+Pathway Group 2:
+  * Feature Group 24: r = 0.3129 (p=1.08e-10)
+    - Loading: POSITIVE, Feature Name: student_teacher_ratio
+    - Loading: POSITIVE, Feature Name: prompt__tii/the_giver_analysis_1_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/tell_tale_heart_narrative_3_0_0
+    - Loading: POSITIVE, Feature Name: free_or_reduced_price_lunch_frac
+    - Loading: POSITIVE, Feature Name: black_african_american_frac
+    - Loading: NEGATIVE, Feature Name: white_frac
+    - Loading: NEGATIVE, Feature Name: prompt__tii/nature_by_design_informative_3_0_0
+    - Loading: NEGATIVE, Feature Name: prompt__tii/laughter_narrative_3_0_0
+    - Loading: NEGATIVE, Feature Name: hispanic_latinx_frac
+
+Pathway Group 15:
+  * Feature Group 2: r = 0.4031 (p=2.49e-17)
+    - Loading: POSITIVE, Feature Name: diff_ORGA-vs-MAIN
+    - Loading: NEGATIVE, Feature Name: diff_ORGA_pred-vs-actual
+    - Loading: NEGATIVE, Feature Name: diff_MAIN_pred-vs-actual
+  * Feature Group 17: r = -0.2710 (p=2.77e-08)
+    - Loading: POSITIVE, Feature Name: std_dev_sentence_length
+    - Loading: POSITIVE, Feature Name: sentence_count
+    - Loading: POSITIVE, Feature Name: average_sentence_length
+    - Loading: NEGATIVE, Feature Name: word_count
+    - Loading: NEGATIVE, Feature Name: paragraph_count
+    - Loading: NEGATIVE, Feature Name: avg_word_length
+
+Pathway Group 27:
+  * Feature Group 30: r = 0.2482 (p=3.93e-07)
+    - Loading: POSITIVE, Feature Name: student_teacher_ratio
+    - Loading: POSITIVE, Feature Name: prompt__tii/the_giver_analysis_1_0_0
+    - Loading: POSITIVE, Feature Name: genre__Analysis
+    - Loading: POSITIVE, Feature Name: asian_frac
+    - Loading: NEGATIVE, Feature Name: white_frac
+    - Loading: NEGATIVE, Feature Name: n_students
+    - Loading: NEGATIVE, Feature Name: hispanic_latinx_frac
+    - Loading: NEGATIVE, Feature Name: free_or_reduced_price_lunch_frac
+    - Loading: NEGATIVE, Feature Name: black_african_american_frac
+
+Pathway Group 28:
+  * Feature Group 18: r = -0.2228 (p=5.69e-06)
+    - Loading: POSITIVE, Feature Name: word_count
+    - Loading: POSITIVE, Feature Name: paragraph_count
+    - Loading: NEGATIVE, Feature Name: std_dev_sentence_length
+    - Loading: NEGATIVE, Feature Name: sentence_count
+    - Loading: NEGATIVE, Feature Name: avg_word_length
+    - Loading: NEGATIVE, Feature Name: average_sentence_length
+  * Feature Group 113: r = -0.2008 (p=4.51e-05)
+    - Loading: POSITIVE, Feature Name: SN_summary
+    - Loading: POSITIVE, Feature Name: (SN_interpretation|SN_background-LEAF)
+    - Loading: POSITIVE, Feature Name: (NN_joint|NS_elaboration-LEAF)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|LEAF-NN_virtual)
+    - Loading: NEGATIVE, Feature Name: (NS_evidence|LEAF-SN_evaluation)
+    - Loading: NEGATIVE, Feature Name: (NS_evaluation|LEAF-LEAF)
+    - Loading: NEGATIVE, Feature Name: (NN_virtual|LEAF-NN_virtual)
+    - Loading: NEGATIVE, Feature Name: (NN_joint|NS_elaboration-NN_joint)
+    - Loading: NEGATIVE, Feature Name: (NN_conjunction|LEAF-SN_background)
+
+Pathway Group 31:
+  * Feature Group 22: r = -0.5895 (p=1.89e-39)
+    - Loading: POSITIVE, Feature Name: word_count
+    - Loading: POSITIVE, Feature Name: std_dev_sentence_length
+    - Loading: NEGATIVE, Feature Name: sentence_count
+    - Loading: NEGATIVE, Feature Name: paragraph_count
+    - Loading: NEGATIVE, Feature Name: average_sentence_length
+  * Feature Group 79: r = -0.2289 (p=3.08e-06)
+    - Loading: POSITIVE, Feature Name: NN_conjunction
+    - Loading: NEGATIVE, Feature Name: (NN_conjunction|NN_conjunction-LEAF)
+
+Pathway Group 33:
+  * Feature Group 28: r = 0.2109 (p=1.79e-05)
+    - Loading: POSITIVE, Feature Name: prompt__tii/uniforms_argumentative_3_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/the_giver_analysis_1_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/ap_eng_owning_yourself_informative_3_0_0
+    - Loading: POSITIVE, Feature Name: hispanic_latinx_frac
+    - Loading: POSITIVE, Feature Name: genre__Narrative
+    - Loading: POSITIVE, Feature Name: genre__Argumentative
+    - Loading: NEGATIVE, Feature Name: prompt__tii/nature_by_design_informative_3_0_0
+    - Loading: NEGATIVE, Feature Name: genre__Informative
+    - Loading: NEGATIVE, Feature Name: free_or_reduced_price_lunch_frac
+  * Feature Group 30: r = -0.2392 (p=1.05e-06)
+    - Loading: POSITIVE, Feature Name: student_teacher_ratio
+    - Loading: POSITIVE, Feature Name: prompt__tii/the_giver_analysis_1_0_0
+    - Loading: POSITIVE, Feature Name: genre__Analysis
+    - Loading: POSITIVE, Feature Name: asian_frac
+    - Loading: NEGATIVE, Feature Name: white_frac
+    - Loading: NEGATIVE, Feature Name: n_students
+    - Loading: NEGATIVE, Feature Name: hispanic_latinx_frac
+    - Loading: NEGATIVE, Feature Name: free_or_reduced_price_lunch_frac
+    - Loading: NEGATIVE, Feature Name: black_african_american_frac
+
+Pathway Group 40:
+  * Feature Group 79: r = -0.2332 (p=1.99e-06)
+    - Loading: POSITIVE, Feature Name: NN_conjunction
+    - Loading: NEGATIVE, Feature Name: (NN_conjunction|NN_conjunction-LEAF)
+
+Pathway Group 41:
+  * Feature Group 65: r = -0.2344 (p=1.75e-06)
+    - Loading: POSITIVE, Feature Name: NN_conjunction
+    - Loading: POSITIVE, Feature Name: (NS_summary|SN_summary-LEAF)
+    - Loading: POSITIVE, Feature Name: (NS_evidence|LEAF-NS_evidence)
+    - Loading: POSITIVE, Feature Name: (NS_evidence|LEAF-NN_conjunction)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|SN_summary-NN_conjunction)
+    - Loading: NEGATIVE, Feature Name: (SN_summary|SN_background-NN_conjunction)
+    - Loading: NEGATIVE, Feature Name: (SN_interpretation|SN_background-LEAF)
+    - Loading: NEGATIVE, Feature Name: (NS_evaluation|LEAF-LEAF)
+    - Loading: NEGATIVE, Feature Name: (NN_conjunction|NS_evidence-NN_conjunction)
+
+Pathway Group 46:
+  * Feature Group 55: r = 0.2069 (p=2.58e-05)
+    - Loading: POSITIVE, Feature Name: SN_evidence
+    - Loading: POSITIVE, Feature Name: (SN_summary|SN_background-NN_conjunction)
+    - Loading: POSITIVE, Feature Name: (SN_evaluation|NS_elaboration-LEAF)
+    - Loading: POSITIVE, Feature Name: (NS_evidence|LEAF-NS_evidence)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|NS_evidence-NN_conjunction)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|LEAF-NS_evidence)
+    - Loading: NEGATIVE, Feature Name: NS_summary
+    - Loading: NEGATIVE, Feature Name: (SN_background|LEAF-SN_background)
+    - Loading: NEGATIVE, Feature Name: (NS_elaboration|NS_elaboration-LEAF)
+  * Feature Group 97: r = -0.2180 (p=9.07e-06)
+    - Loading: POSITIVE, Feature Name: (NS_evaluation|LEAF-LEAF)
+    - Loading: POSITIVE, Feature Name: (NN_joint|LEAF-NN_joint)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|NS_elaboration-LEAF)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|LEAF-SN_evaluation)
+    - Loading: NEGATIVE, Feature Name: (SN_background|NN_conjunction-LEAF)
+    - Loading: NEGATIVE, Feature Name: (NS_evidence|LEAF-NS_elaboration)
+    - Loading: NEGATIVE, Feature Name: (NS_evidence|LEAF-LEAF)
+    - Loading: NEGATIVE, Feature Name: (NN_joint|SN_summary-NN_joint)
+    - Loading: NEGATIVE, Feature Name: (NN_joint|LEAF-NN_conjunction)
+
+Pathway Group 48:
+  * Feature Group 23: r = 0.2367 (p=1.37e-06)
+    - Loading: POSITIVE, Feature Name: student_teacher_ratio
+    - Loading: POSITIVE, Feature Name: prompt__tii/uniforms_argumentative_3_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/tell_tale_heart_narrative_3_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/london_eyes_open_narrative_3_0_0
+    - Loading: POSITIVE, Feature Name: n_students
+    - Loading: POSITIVE, Feature Name: genre__Argumentative
+    - Loading: POSITIVE, Feature Name: free_or_reduced_price_lunch_frac
+    - Loading: NEGATIVE, Feature Name: prompt__tii/laughter_narrative_3_0_0
+    - Loading: NEGATIVE, Feature Name: genre__Narrative
+
+Pathway Group 55:
+  * Feature Group 19: r = -0.2024 (p=3.92e-05)
+    - Loading: POSITIVE, Feature Name: word_count
+    - Loading: POSITIVE, Feature Name: std_dev_sentence_length
+    - Loading: POSITIVE, Feature Name: sentence_count
+    - Loading: POSITIVE, Feature Name: avg_word_length
+    - Loading: POSITIVE, Feature Name: average_sentence_length
+    - Loading: NEGATIVE, Feature Name: paragraph_count
+
+Pathway Group 63:
+  * Feature Group 6: r = 0.2410 (p=8.68e-07)
+    - Loading: POSITIVE, Feature Name: word-group_Societal-fairness
+    - Loading: POSITIVE, Feature Name: word-group_Simple-general-concepts
+    - Loading: POSITIVE, Feature Name: word-group_School-concepts
+    - Loading: POSITIVE, Feature Name: word-group_Parental-intent/decisiosn
+    - Loading: NEGATIVE, Feature Name: word-group_Teen-values
+    - Loading: NEGATIVE, Feature Name: word-group_Opinion-declarations
+    - Loading: NEGATIVE, Feature Name: word-group_General-population-comparison
+    - Loading: NEGATIVE, Feature Name: word-group_Cost-anlaysis-(in-schools)
+    - Loading: NEGATIVE, Feature Name: word-group_Basic-actions/activities
+
+Pathway Group 65:
+  * Feature Group 41: r = -0.2009 (p=4.48e-05)
+    - Loading: POSITIVE, Feature Name: (NS_evidence|LEAF-NS_evidence)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|SN_background-NN_conjunction)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|LEAF-SN_evaluation)
+    - Loading: NEGATIVE, Feature Name: SN_background
+    - Loading: NEGATIVE, Feature Name: (SN_summary|LEAF-SN_evaluation)
+    - Loading: NEGATIVE, Feature Name: (NS_elaboration|LEAF-NS_evidence)
+    - Loading: NEGATIVE, Feature Name: (NN_conjunction|SN_evaluation-NN_conjunction)
+    - Loading: NEGATIVE, Feature Name: (NN_conjunction|NS_evidence-NN_conjunction)
+    - Loading: NEGATIVE, Feature Name: (NN_conjunction|LEAF-NS_evidence)
+
+Pathway Group 67:
+  * Feature Group 30: r = -0.2146 (p=1.26e-05)
+    - Loading: POSITIVE, Feature Name: student_teacher_ratio
+    - Loading: POSITIVE, Feature Name: prompt__tii/the_giver_analysis_1_0_0
+    - Loading: POSITIVE, Feature Name: genre__Analysis
+    - Loading: POSITIVE, Feature Name: asian_frac
+    - Loading: NEGATIVE, Feature Name: white_frac
+    - Loading: NEGATIVE, Feature Name: n_students
+    - Loading: NEGATIVE, Feature Name: hispanic_latinx_frac
+    - Loading: NEGATIVE, Feature Name: free_or_reduced_price_lunch_frac
+    - Loading: NEGATIVE, Feature Name: black_african_american_frac
+
+Pathway Group 84:
+  * Feature Group 1: r = 0.2375 (p=1.26e-06)
+    - Loading: POSITIVE, Feature Name: diff_MAIN_pred-vs-actual
+    - Loading: NEGATIVE, Feature Name: diff_ORGA_pred-vs-actual
+    - Loading: NEGATIVE, Feature Name: diff_ORGA-vs-MAIN
+  * Feature Group 31: r = 0.2395 (p=1.02e-06)
+    - Loading: POSITIVE, Feature Name: student_teacher_ratio
+    - Loading: POSITIVE, Feature Name: prompt__tii/the_giver_analysis_1_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/london_eyes_open_narrative_3_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/laughter_narrative_3_0_0
+    - Loading: POSITIVE, Feature Name: free_or_reduced_price_lunch_frac
+    - Loading: POSITIVE, Feature Name: black_african_american_frac
+    - Loading: NEGATIVE, Feature Name: prompt__tii/tell_tale_heart_narrative_3_0_0
+    - Loading: NEGATIVE, Feature Name: hispanic_latinx_frac
+    - Loading: NEGATIVE, Feature Name: genre__Narrative
+  * Feature Group 98: r = 0.2023 (p=3.94e-05)
+    - Loading: POSITIVE, Feature Name: (SN_summary|NS_elaboration-NN_conjunction)
+    - Loading: POSITIVE, Feature Name: (NS_evidence|LEAF-NS_elaboration)
+    - Loading: POSITIVE, Feature Name: (NN_joint|SN_summary-NN_joint)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|SN_evaluation-NN_conjunction)
+    - Loading: NEGATIVE, Feature Name: SN_evidence
+    - Loading: NEGATIVE, Feature Name: (NS_summary|SN_summary-LEAF)
+    - Loading: NEGATIVE, Feature Name: (NS_evidence|LEAF-SN_evaluation)
+    - Loading: NEGATIVE, Feature Name: (NS_evaluation|LEAF-LEAF)
+    - Loading: NEGATIVE, Feature Name: (NN_conjunction|SN_summary-NN_conjunction)
+
+Pathway Group 85:
+  * Feature Group 28: r = 0.3111 (p=1.40e-10)
+    - Loading: POSITIVE, Feature Name: prompt__tii/uniforms_argumentative_3_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/the_giver_analysis_1_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/ap_eng_owning_yourself_informative_3_0_0
+    - Loading: POSITIVE, Feature Name: hispanic_latinx_frac
+    - Loading: POSITIVE, Feature Name: genre__Narrative
+    - Loading: POSITIVE, Feature Name: genre__Argumentative
+    - Loading: NEGATIVE, Feature Name: prompt__tii/nature_by_design_informative_3_0_0
+    - Loading: NEGATIVE, Feature Name: genre__Informative
+    - Loading: NEGATIVE, Feature Name: free_or_reduced_price_lunch_frac
+
+Pathway Group 90:
+  * Feature Group 7: r = -0.3095 (p=1.76e-10)
+    - Loading: POSITIVE, Feature Name: word-group_School-concepts
+    - Loading: POSITIVE, Feature Name: word-group_Cost-anlaysis-(in-schools)
+    - Loading: NEGATIVE, Feature Name: word-group_Teen-values
+    - Loading: NEGATIVE, Feature Name: word-group_Parental-intent/decisiosn
+    - Loading: NEGATIVE, Feature Name: word-group_Opinion-declarations
+    - Loading: NEGATIVE, Feature Name: word-group_General-population-comparison
+    - Loading: NEGATIVE, Feature Name: word-group_Feelings/ideals
+    - Loading: NEGATIVE, Feature Name: word-group_Conflict-historical
+    - Loading: NEGATIVE, Feature Name: word-group_Basic-actions/activities
+
+Pathway Group 96:
+  * Feature Group 21: r = -0.2222 (p=6.04e-06)
+    - Loading: POSITIVE, Feature Name: std_dev_sentence_length
+    - Loading: POSITIVE, Feature Name: sentence_count
+    - Loading: POSITIVE, Feature Name: avg_word_length
+    - Loading: NEGATIVE, Feature Name: word_count
+    - Loading: NEGATIVE, Feature Name: paragraph_count
+    - Loading: NEGATIVE, Feature Name: average_sentence_length
+  * Feature Group 100: r = 0.2606 (p=9.67e-08)
+    - Loading: POSITIVE, Feature Name: SN_interpretation
+    - Loading: POSITIVE, Feature Name: (NS_evidence|LEAF-NS_elaboration)
+    - Loading: POSITIVE, Feature Name: (NN_joint|NS_elaboration-LEAF)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|NS_evidence-NN_conjunction)
+    - Loading: POSITIVE, Feature Name: (NN_conjunction|NS_elaboration-LEAF)
+    - Loading: NEGATIVE, Feature Name: NS_evidence
+    - Loading: NEGATIVE, Feature Name: (SN_interpretation|SN_background-LEAF)
+    - Loading: NEGATIVE, Feature Name: (SN_interpretation|LEAF-LEAF)
+    - Loading: NEGATIVE, Feature Name: (NS_summary|SN_summary-LEAF)
+
+Pathway Group 100:
+  * Feature Group 25: r = 0.2094 (p=2.06e-05)
+    - Loading: POSITIVE, Feature Name: white_frac
+    - Loading: POSITIVE, Feature Name: prompt__tii/laughter_narrative_3_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/ap_eng_owning_yourself_informative_3_0_0
+    - Loading: POSITIVE, Feature Name: free_or_reduced_price_lunch_frac
+    - Loading: POSITIVE, Feature Name: asian_frac
+    - Loading: NEGATIVE, Feature Name: prompt__tii/london_eyes_open_narrative_3_0_0
+    - Loading: NEGATIVE, Feature Name: n_students
+    - Loading: NEGATIVE, Feature Name: hispanic_latinx_frac
+    - Loading: NEGATIVE, Feature Name: black_african_american_frac
+
+Pathway Group 107:
+  * Feature Group 14: r = 0.2468 (p=4.59e-07)
+    - Loading: POSITIVE, Feature Name: word-group_Sameness-judgement
+    - Loading: POSITIVE, Feature Name: word-group_Efficiency-or-convinience
+    - Loading: NEGATIVE, Feature Name: word-group_Teen-values
+    - Loading: NEGATIVE, Feature Name: word-group_Simple-observations
+    - Loading: NEGATIVE, Feature Name: word-group_Simple-communicative-actions
+    - Loading: NEGATIVE, Feature Name: word-group_Opinion-declarations
+    - Loading: NEGATIVE, Feature Name: word-group_Informal-tangents
+    - Loading: NEGATIVE, Feature Name: word-group_Feelings/ideals
+    - Loading: NEGATIVE, Feature Name: word-group_Basic-actions/activities
+  * Feature Group 19: r = -0.2346 (p=1.71e-06)
+    - Loading: POSITIVE, Feature Name: word_count
+    - Loading: POSITIVE, Feature Name: std_dev_sentence_length
+    - Loading: POSITIVE, Feature Name: sentence_count
+    - Loading: POSITIVE, Feature Name: avg_word_length
+    - Loading: POSITIVE, Feature Name: average_sentence_length
+    - Loading: NEGATIVE, Feature Name: paragraph_count
+
+Pathway Group 119:
+  * Feature Group 28: r = -0.2452 (p=5.52e-07)
+    - Loading: POSITIVE, Feature Name: prompt__tii/uniforms_argumentative_3_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/the_giver_analysis_1_0_0
+    - Loading: POSITIVE, Feature Name: prompt__tii/ap_eng_owning_yourself_informative_3_0_0
+    - Loading: POSITIVE, Feature Name: hispanic_latinx_frac
+    - Loading: POSITIVE, Feature Name: genre__Narrative
+    - Loading: POSITIVE, Feature Name: genre__Argumentative
+    - Loading: NEGATIVE, Feature Name: prompt__tii/nature_by_design_informative_3_0_0
+    - Loading: NEGATIVE, Feature Name: genre__Informative
+    - Loading: NEGATIVE, Feature Name: free_or_reduced_price_lunch_frac
+
+Pathway Group 123:
+  * Feature Group 1: r = 0.2887 (p=2.97e-09)
+    - Loading: POSITIVE, Feature Name: diff_MAIN_pred-vs-actual
+    - Loading: NEGATIVE, Feature Name: diff_ORGA_pred-vs-actual
+    - Loading: NEGATIVE, Feature Name: diff_ORGA-vs-MAIN
+

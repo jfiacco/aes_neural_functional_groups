@@ -1,0 +1,8 @@
+Num. Data Instances: 275
+
+Model: ORGANIZATION, Num. Functional Components: 96
+Model: LANGUAGE, Num. Functional Components: 66
+Num. Functional Component Groups: 110
+
+Num. Base Features: 118
+Num. Independent Features: 86

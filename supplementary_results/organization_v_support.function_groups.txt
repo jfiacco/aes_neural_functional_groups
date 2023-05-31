@@ -1,0 +1,309 @@
+ Functional Component Group: 0
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  17
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  57
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  24
+
+ Functional Component Group: 1
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  36
+
+*Functional Component Group: 2
+    * Corr. w/ diff_ORGA-vs-SUPP: -0.199 (p<0.017)
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  21
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   7
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  32
+
+*Functional Component Group: 3
+    * Corr. w/ ORGANIZATION: 0.211 (p<0.011)
+    * Corr. w/ SUPPORT: 0.182 (p<0.029)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  52
+
+ Functional Component Group: 4
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  11
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  26
+
+ Functional Component Group: 5
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  35
+
+ Functional Component Group: 6
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  65
+
+ Functional Component Group: 7
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  42
+
+ Functional Component Group: 8
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:   7
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  13
+
+ Functional Component Group: 9
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:   4
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  46
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  20
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  20
+
+*Functional Component Group: 10
+    * Corr. w/ ORGANIZATION: -0.189 (p<0.023)
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:   5
+
+*Functional Component Group: 11
+    * Corr. w/ ORGANIZATION: 0.232 (p<0.005)
+    * Corr. w/ SUPPORT: 0.166 (p<0.047)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  46
+
+*Functional Component Group: 12
+    * Corr. w/ SUPPORT: -0.188 (p<0.024)
+    * Corr. w/ diff_ORGA-vs-SUPP: -0.222 (p<0.008)
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  12
+
+ Functional Component Group: 13
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  18
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  65
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  16
+
+ Functional Component Group: 14
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  33
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  57
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  48
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  64
+
+ Functional Component Group: 15
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   9
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:   9
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  29
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  17
+
+*Functional Component Group: 16
+    * Corr. w/ diff_ORGA_pred-vs-actual: 0.312 (p<0.000)
+    * Corr. w/ diff_ORGA-vs-SUPP: 0.184 (p<0.027)
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  30
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  11
+
+ Functional Component Group: 17
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:   8
+
+ Functional Component Group: 18
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:   2
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  65
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   6
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   2
+
+ Functional Component Group: 19
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  23
+
+ Functional Component Group: 20
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  59
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   4
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  53
+
+ Functional Component Group: 21
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:   6
+
+ Functional Component Group: 22
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  46
+
+ Functional Component Group: 23
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  48
+
+*Functional Component Group: 24
+    * Corr. w/ diff_ORGA_pred-vs-actual: 0.345 (p<0.000)
+    * Corr. w/ diff_SUPP_pred-vs-actual: 0.461 (p<0.000)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  43
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  34
+
+*Functional Component Group: 25
+    * Corr. w/ ORGANIZATION: -0.275 (p<0.001)
+    * Corr. w/ SUPPORT: -0.230 (p<0.005)
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  39
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  18
+
+*Functional Component Group: 26
+    * Corr. w/ SUPPORT: 0.231 (p<0.005)
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  32
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  24
+
+*Functional Component Group: 27
+    * Corr. w/ ORGANIZATION: -0.225 (p<0.007)
+    * Corr. w/ SUPPORT: -0.303 (p<0.000)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  56
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  14
+
+*Functional Component Group: 28
+    * Corr. w/ ORGANIZATION: -0.191 (p<0.022)
+    * Corr. w/ SUPPORT: -0.190 (p<0.022)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  45
+
+ Functional Component Group: 29
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:   3
+
+*Functional Component Group: 30
+    * Corr. w/ SUPPORT: -0.180 (p<0.031)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   5
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  49
+
+ Functional Component Group: 31
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  58
+
+ Functional Component Group: 32
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:   0
+
+ Functional Component Group: 33
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  63
+
+*Functional Component Group: 34
+    * Corr. w/ ORGANIZATION: 0.184 (p<0.027)
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:   1
+
+ Functional Component Group: 35
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  38
+
+ Functional Component Group: 36
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  30
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  37
+
+*Functional Component Group: 37
+    * Corr. w/ ORGANIZATION: -0.200 (p<0.016)
+    * Corr. w/ SUPPORT: -0.191 (p<0.022)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  27
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  10
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  65
+
+ Functional Component Group: 38
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  13
+
+*Functional Component Group: 39
+    * Corr. w/ ORGANIZATION: -0.275 (p<0.001)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  62
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  46
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  21
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   4
+
+ Functional Component Group: 40
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  17
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  15
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  16
+
+ Functional Component Group: 41
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  41
+
+ Functional Component Group: 42
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  59
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:   9
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  46
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  26
+
+*Functional Component Group: 43
+    * Corr. w/ diff_ORGA_pred-vs-actual: 0.185 (p<0.026)
+    * Corr. w/ diff_SUPP_pred-vs-actual: 0.241 (p<0.004)
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  19
+
+ Functional Component Group: 44
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  16
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:   3
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  13
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  57
+
+ Functional Component Group: 45
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  28
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  20
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:   9
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  14
+
+*Functional Component Group: 46
+    * Corr. w/ SUPPORT: 0.212 (p<0.011)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  24
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  29
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   8
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  46
+
+ Functional Component Group: 47
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  34
+
+ Functional Component Group: 48
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  28
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  36
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  37
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  61
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  18
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  29
+
+*Functional Component Group: 49
+    * Corr. w/ diff_ORGA-vs-SUPP: -0.191 (p<0.022)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  61
+
+ Functional Component Group: 50
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  53
+
+*Functional Component Group: 51
+    * Corr. w/ diff_ORGA_pred-vs-actual: -0.251 (p<0.002)
+    * Corr. w/ diff_SUPP_pred-vs-actual: -0.171 (p<0.040)
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  47
+
+ Functional Component Group: 52
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  55
+
+*Functional Component Group: 53
+    * Corr. w/ ORGANIZATION: -0.197 (p<0.018)
+    * Corr. w/ SUPPORT: -0.268 (p<0.001)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  15
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  14
+
+ Functional Component Group: 54
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  60
+
+ Functional Component Group: 55
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:   7
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  22
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  65
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   2
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  27
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  15
+
+ Functional Component Group: 56
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  64
+
+ Functional Component Group: 57
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  10
+
+ Functional Component Group: 58
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  25
+
+ Functional Component Group: 59
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  44
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  10
+
+*Functional Component Group: 60
+    * Corr. w/ ORGANIZATION: -0.205 (p<0.014)
+    * Corr. w/ SUPPORT: -0.188 (p<0.024)
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  50
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   0
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  33
+
+*Functional Component Group: 61
+    * Corr. w/ diff_ORGA_pred-vs-actual: -0.373 (p<0.000)
+    * Corr. w/ diff_SUPP_pred-vs-actual: -0.649 (p<0.000)
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  40
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  25
+
+*Functional Component Group: 62
+    * Corr. w/ ORGANIZATION: -0.190 (p<0.023)
+    * Corr. w/ SUPPORT: -0.198 (p<0.017)
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  19
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  35
+
+ Functional Component Group: 63
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  57
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  27
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  22
+
+ Functional Component Group: 64
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  54
+
+ Functional Component Group: 65
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:  31
+
+ Functional Component Group: 66
+    - Loading: NEGATIVE, Model: ORGANIZATION, Component ID:  51
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  16
+
+ Functional Component Group: 67
+    - Loading: POSITIVE, Model: ORGANIZATION, Component ID:   9
+

@@ -1,0 +1,498 @@
+*Functional Component Group: 0
+    * Corr. w/ MAIN-IDEA: 0.115 (p<0.034)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  40
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  44
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  39
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  10
+
+*Functional Component Group: 1
+    * Corr. w/ LANGUAGE: -0.122 (p<0.024)
+    * Corr. w/ MAIN-IDEA: -0.108 (p<0.045)
+    * Corr. w/ diff_MAIN_pred-vs-actual: -0.221 (p<0.000)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  38
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  54
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   2
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  25
+
+*Functional Component Group: 2
+    * Corr. w/ diff_LANG_pred-vs-actual: -0.113 (p<0.037)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  24
+
+*Functional Component Group: 3
+    * Corr. w/ LANGUAGE: -0.132 (p<0.014)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  46
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  52
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  68
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  53
+
+*Functional Component Group: 4
+    * Corr. w/ MAIN-IDEA: 0.112 (p<0.039)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  45
+
+*Functional Component Group: 5
+    * Corr. w/ LANGUAGE: -0.159 (p<0.003)
+    * Corr. w/ MAIN-IDEA: -0.108 (p<0.046)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  51
+
+*Functional Component Group: 6
+    * Corr. w/ diff_LANG_pred-vs-actual: 0.122 (p<0.025)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  36
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  35
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  43
+
+ Functional Component Group: 7
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  17
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  70
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  53
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  59
+
+*Functional Component Group: 8
+    * Corr. w/ diff_MAIN_pred-vs-actual: -0.239 (p<0.000)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  52
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  52
+
+*Functional Component Group: 9
+    * Corr. w/ diff_MAIN_pred-vs-actual: -0.134 (p<0.013)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  77
+
+ Functional Component Group: 10
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  39
+
+ Functional Component Group: 11
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  28
+
+*Functional Component Group: 12
+    * Corr. w/ MAIN-IDEA: -0.169 (p<0.002)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  19
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  62
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   5
+
+ Functional Component Group: 13
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  23
+
+ Functional Component Group: 14
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  14
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  19
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  15
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  52
+
+ Functional Component Group: 15
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   3
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  58
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  18
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  15
+
+*Functional Component Group: 16
+    * Corr. w/ LANGUAGE: 0.196 (p<0.000)
+    * Corr. w/ MAIN-IDEA: 0.250 (p<0.000)
+    * Corr. w/ diff_LANG-vs-MAIN: 0.137 (p<0.011)
+    * Corr. w/ diff_MAIN_pred-vs-actual: 0.136 (p<0.012)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  33
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  68
+
+ Functional Component Group: 17
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  33
+
+ Functional Component Group: 18
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  13
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  10
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  30
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  34
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  13
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  43
+
+*Functional Component Group: 19
+    * Corr. w/ MAIN-IDEA: -0.180 (p<0.001)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  27
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  63
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  50
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  74
+
+ Functional Component Group: 20
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  42
+
+ Functional Component Group: 21
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  76
+
+*Functional Component Group: 22
+    * Corr. w/ diff_MAIN_pred-vs-actual: -0.114 (p<0.035)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  75
+
+ Functional Component Group: 23
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   3
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   5
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  36
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  69
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  57
+
+ Functional Component Group: 24
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   6
+
+*Functional Component Group: 25
+    * Corr. w/ LANGUAGE: 0.126 (p<0.020)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  22
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  47
+
+ Functional Component Group: 26
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   4
+
+ Functional Component Group: 27
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  29
+
+ Functional Component Group: 28
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  44
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  39
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  57
+
+*Functional Component Group: 29
+    * Corr. w/ LANGUAGE: -0.159 (p<0.003)
+    * Corr. w/ MAIN-IDEA: -0.183 (p<0.001)
+    * Corr. w/ diff_MAIN_pred-vs-actual: 0.142 (p<0.009)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  44
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  21
+
+*Functional Component Group: 30
+    * Corr. w/ LANGUAGE: 0.127 (p<0.019)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  37
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  51
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  46
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  37
+
+ Functional Component Group: 31
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  52
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   9
+
+*Functional Component Group: 32
+    * Corr. w/ diff_MAIN_pred-vs-actual: -0.118 (p<0.029)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  43
+
+ Functional Component Group: 33
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  36
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  65
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  35
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   0
+
+ Functional Component Group: 34
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  53
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  54
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  57
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  69
+
+*Functional Component Group: 35
+    * Corr. w/ LANGUAGE: 0.138 (p<0.010)
+    * Corr. w/ diff_LANG_pred-vs-actual: -0.273 (p<0.000)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  73
+
+ Functional Component Group: 36
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  72
+
+*Functional Component Group: 37
+    * Corr. w/ LANGUAGE: -0.122 (p<0.025)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  30
+
+*Functional Component Group: 38
+    * Corr. w/ LANGUAGE: -0.176 (p<0.001)
+    * Corr. w/ MAIN-IDEA: -0.249 (p<0.000)
+    * Corr. w/ diff_MAIN_pred-vs-actual: -0.137 (p<0.011)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  74
+
+*Functional Component Group: 39
+    * Corr. w/ diff_LANG-vs-MAIN: -0.111 (p<0.041)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  57
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   7
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  19
+
+*Functional Component Group: 40
+    * Corr. w/ LANGUAGE: -0.118 (p<0.029)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  19
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  17
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   4
+
+*Functional Component Group: 41
+    * Corr. w/ diff_LANG_pred-vs-actual: 0.178 (p<0.001)
+    * Corr. w/ diff_LANG-vs-MAIN: 0.169 (p<0.002)
+    * Corr. w/ diff_MAIN_pred-vs-actual: 0.110 (p<0.042)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  35
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  62
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  32
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   1
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  47
+
+ Functional Component Group: 42
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  27
+
+*Functional Component Group: 43
+    * Corr. w/ MAIN-IDEA: 0.114 (p<0.036)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  30
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  40
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  15
+
+ Functional Component Group: 44
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  18
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   9
+
+*Functional Component Group: 45
+    * Corr. w/ LANGUAGE: -0.145 (p<0.007)
+    * Corr. w/ MAIN-IDEA: -0.133 (p<0.014)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  10
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  26
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  46
+
+*Functional Component Group: 46
+    * Corr. w/ MAIN-IDEA: 0.181 (p<0.001)
+    * Corr. w/ diff_LANG-vs-MAIN: -0.386 (p<0.000)
+    * Corr. w/ diff_MAIN_pred-vs-actual: -0.188 (p<0.000)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   7
+
+*Functional Component Group: 47
+    * Corr. w/ LANGUAGE: -0.127 (p<0.019)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   8
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  54
+
+ Functional Component Group: 48
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   2
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  24
+
+*Functional Component Group: 49
+    * Corr. w/ LANGUAGE: 0.124 (p<0.022)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  75
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  23
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  18
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  52
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  14
+
+*Functional Component Group: 50
+    * Corr. w/ LANGUAGE: -0.205 (p<0.000)
+    * Corr. w/ MAIN-IDEA: -0.191 (p<0.000)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  32
+
+ Functional Component Group: 51
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  61
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   2
+
+ Functional Component Group: 52
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  17
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  50
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  20
+
+*Functional Component Group: 53
+    * Corr. w/ LANGUAGE: 0.137 (p<0.011)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  31
+
+ Functional Component Group: 54
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  59
+
+ Functional Component Group: 55
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  19
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  11
+
+*Functional Component Group: 56
+    * Corr. w/ MAIN-IDEA: -0.134 (p<0.013)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  31
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  20
+
+*Functional Component Group: 57
+    * Corr. w/ LANGUAGE: 0.160 (p<0.003)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  53
+
+ Functional Component Group: 58
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  70
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  29
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  17
+
+*Functional Component Group: 59
+    * Corr. w/ MAIN-IDEA: -0.114 (p<0.035)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   8
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  34
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  36
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   1
+
+ Functional Component Group: 60
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  15
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  35
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   0
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  39
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  56
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  19
+
+*Functional Component Group: 61
+    * Corr. w/ diff_LANG_pred-vs-actual: 0.110 (p<0.042)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   1
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  46
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   0
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  44
+
+ Functional Component Group: 62
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  36
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  50
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   5
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  36
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  15
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  54
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  53
+
+*Functional Component Group: 63
+    * Corr. w/ LANGUAGE: 0.186 (p<0.001)
+    * Corr. w/ MAIN-IDEA: 0.211 (p<0.000)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  38
+
+*Functional Component Group: 64
+    * Corr. w/ LANGUAGE: 0.198 (p<0.000)
+    * Corr. w/ MAIN-IDEA: 0.123 (p<0.023)
+    * Corr. w/ diff_LANG_pred-vs-actual: 0.152 (p<0.005)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  12
+
+*Functional Component Group: 65
+    * Corr. w/ LANGUAGE: 0.117 (p<0.031)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  35
+
+*Functional Component Group: 66
+    * Corr. w/ LANGUAGE: 0.115 (p<0.034)
+    * Corr. w/ MAIN-IDEA: 0.111 (p<0.040)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  25
+
+*Functional Component Group: 67
+    * Corr. w/ diff_MAIN_pred-vs-actual: 0.264 (p<0.000)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  20
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  71
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   0
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  10
+
+*Functional Component Group: 68
+    * Corr. w/ LANGUAGE: 0.126 (p<0.020)
+    * Corr. w/ MAIN-IDEA: 0.148 (p<0.006)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   1
+
+*Functional Component Group: 69
+    * Corr. w/ LANGUAGE: -0.146 (p<0.007)
+    * Corr. w/ MAIN-IDEA: -0.149 (p<0.006)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  22
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  16
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  23
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  43
+
+ Functional Component Group: 70
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  36
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  29
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  48
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  18
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  49
+
+*Functional Component Group: 71
+    * Corr. w/ LANGUAGE: 0.172 (p<0.001)
+    * Corr. w/ MAIN-IDEA: 0.191 (p<0.000)
+    * Corr. w/ diff_LANG-vs-MAIN: -0.150 (p<0.006)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  56
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  65
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  36
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  14
+
+ Functional Component Group: 72
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  60
+
+*Functional Component Group: 73
+    * Corr. w/ LANGUAGE: -0.191 (p<0.000)
+    * Corr. w/ diff_LANG_pred-vs-actual: 0.178 (p<0.001)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  26
+
+ Functional Component Group: 74
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  64
+
+ Functional Component Group: 75
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  16
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  15
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  40
+
+ Functional Component Group: 76
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  48
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  48
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  62
+
+*Functional Component Group: 77
+    * Corr. w/ LANGUAGE: 0.108 (p<0.046)
+    * Corr. w/ MAIN-IDEA: 0.173 (p<0.001)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  17
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  25
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  40
+
+ Functional Component Group: 78
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  69
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  43
+
+ Functional Component Group: 79
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   7
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   9
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  57
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  53
+
+*Functional Component Group: 80
+    * Corr. w/ MAIN-IDEA: -0.145 (p<0.007)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  63
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  18
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  13
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  50
+
+ Functional Component Group: 81
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  37
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  37
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  49
+
+*Functional Component Group: 82
+    * Corr. w/ LANGUAGE: -0.154 (p<0.004)
+    * Corr. w/ diff_LANG_pred-vs-actual: 0.249 (p<0.000)
+    * Corr. w/ diff_LANG-vs-MAIN: 0.175 (p<0.001)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  60
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  69
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  48
+
+*Functional Component Group: 83
+    * Corr. w/ diff_LANG_pred-vs-actual: 0.230 (p<0.000)
+    * Corr. w/ diff_LANG-vs-MAIN: 0.107 (p<0.048)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  66
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  28
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  29
+
+*Functional Component Group: 84
+    * Corr. w/ LANGUAGE: -0.115 (p<0.033)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  11
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  54
+
+*Functional Component Group: 85
+    * Corr. w/ MAIN-IDEA: 0.116 (p<0.032)
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  41
+
+ Functional Component Group: 86
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  22
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  11
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   7
+
+ Functional Component Group: 87
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  55
+
+*Functional Component Group: 88
+    * Corr. w/ MAIN-IDEA: 0.113 (p<0.037)
+    * Corr. w/ diff_MAIN_pred-vs-actual: 0.129 (p<0.017)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  45
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  58
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   3
+
+ Functional Component Group: 89
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  41
+
+*Functional Component Group: 90
+    * Corr. w/ LANGUAGE: -0.124 (p<0.022)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:  34
+
+ Functional Component Group: 91
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  10
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  35
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:   9
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  11
+    - Loading: POSITIVE, Model:     LANGUAGE, Component ID:  57
+
+*Functional Component Group: 92
+    * Corr. w/ LANGUAGE: 0.183 (p<0.001)
+    * Corr. w/ MAIN-IDEA: 0.152 (p<0.005)
+    * Corr. w/ diff_LANG-vs-MAIN: -0.132 (p<0.015)
+    - Loading: NEGATIVE, Model:     LANGUAGE, Component ID:   6
+

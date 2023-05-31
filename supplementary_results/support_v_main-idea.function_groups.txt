@@ -1,0 +1,370 @@
+*Functional Component Group: 0
+    * Corr. w/ MAIN-IDEA: -0.143 (p<0.021)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   1
+
+ Functional Component Group: 1
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  42
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   9
+
+*Functional Component Group: 2
+    * Corr. w/ SUPPORT: -0.168 (p<0.007)
+    * Corr. w/ MAIN-IDEA: -0.218 (p<0.000)
+    * Corr. w/ diff_SUPP_pred-vs-actual: 0.613 (p<0.000)
+    * Corr. w/ diff_MAIN_pred-vs-actual: 0.529 (p<0.000)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  30
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   7
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  27
+
+ Functional Component Group: 3
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  10
+
+ Functional Component Group: 4
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  48
+
+*Functional Component Group: 5
+    * Corr. w/ diff_SUPP_pred-vs-actual: -0.296 (p<0.000)
+    * Corr. w/ diff_SUPP-vs-MAIN: -0.175 (p<0.005)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   7
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  34
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  27
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   2
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  17
+
+ Functional Component Group: 6
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  27
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  44
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   0
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   1
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  10
+
+ Functional Component Group: 7
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  37
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  45
+
+*Functional Component Group: 8
+    * Corr. w/ SUPPORT: 0.165 (p<0.008)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   4
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  12
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  38
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  21
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   0
+
+*Functional Component Group: 9
+    * Corr. w/ SUPPORT: -0.290 (p<0.000)
+    * Corr. w/ MAIN-IDEA: -0.295 (p<0.000)
+    * Corr. w/ diff_SUPP-vs-MAIN: -0.127 (p<0.041)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   1
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   4
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   4
+
+ Functional Component Group: 10
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  31
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  35
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  24
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  37
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  17
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   2
+
+*Functional Component Group: 11
+    * Corr. w/ diff_MAIN_pred-vs-actual: 0.157 (p<0.011)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  15
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  39
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  36
+
+*Functional Component Group: 12
+    * Corr. w/ SUPPORT: 0.174 (p<0.005)
+    * Corr. w/ diff_SUPP-vs-MAIN: -0.174 (p<0.005)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  32
+
+*Functional Component Group: 13
+    * Corr. w/ SUPPORT: 0.156 (p<0.012)
+    * Corr. w/ diff_SUPP-vs-MAIN: -0.189 (p<0.002)
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  16
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  37
+
+ Functional Component Group: 14
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  33
+
+*Functional Component Group: 15
+    * Corr. w/ SUPPORT: -0.134 (p<0.031)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  34
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  39
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  10
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  28
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   9
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  40
+
+*Functional Component Group: 16
+    * Corr. w/ SUPPORT: -0.122 (p<0.049)
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  29
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  44
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  47
+
+ Functional Component Group: 17
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   3
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  17
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  26
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  19
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  39
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  19
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  31
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  27
+
+ Functional Component Group: 18
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  32
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  36
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  44
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   5
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   3
+
+*Functional Component Group: 19
+    * Corr. w/ diff_MAIN_pred-vs-actual: 0.144 (p<0.020)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  37
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  30
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  24
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  36
+
+ Functional Component Group: 20
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  41
+
+ Functional Component Group: 21
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   3
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  18
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  40
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   5
+
+ Functional Component Group: 22
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  12
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   8
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  28
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  45
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  17
+
+ Functional Component Group: 23
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  26
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  19
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  41
+
+ Functional Component Group: 24
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  22
+
+ Functional Component Group: 25
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   5
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  32
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  43
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   9
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  35
+
+*Functional Component Group: 26
+    * Corr. w/ MAIN-IDEA: -0.140 (p<0.024)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  16
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  18
+
+*Functional Component Group: 27
+    * Corr. w/ SUPPORT: -0.270 (p<0.000)
+    * Corr. w/ MAIN-IDEA: -0.235 (p<0.000)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  38
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  25
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  21
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   8
+
+ Functional Component Group: 28
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  12
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  18
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   3
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  43
+
+*Functional Component Group: 29
+    * Corr. w/ SUPPORT: 0.218 (p<0.000)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   8
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  17
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  40
+
+*Functional Component Group: 30
+    * Corr. w/ MAIN-IDEA: -0.135 (p<0.029)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   0
+
+ Functional Component Group: 31
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   7
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  33
+
+*Functional Component Group: 32
+    * Corr. w/ MAIN-IDEA: -0.182 (p<0.003)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  39
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  13
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  15
+
+ Functional Component Group: 33
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   6
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  38
+
+*Functional Component Group: 34
+    * Corr. w/ diff_SUPP_pred-vs-actual: -0.122 (p<0.050)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  36
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  17
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  19
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  36
+
+*Functional Component Group: 35
+    * Corr. w/ SUPPORT: 0.201 (p<0.001)
+    * Corr. w/ MAIN-IDEA: 0.225 (p<0.000)
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   2
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  14
+
+*Functional Component Group: 36
+    * Corr. w/ SUPPORT: 0.152 (p<0.014)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  14
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  26
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  10
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  18
+
+*Functional Component Group: 37
+    * Corr. w/ SUPPORT: 0.173 (p<0.005)
+    * Corr. w/ MAIN-IDEA: 0.206 (p<0.001)
+    * Corr. w/ diff_MAIN_pred-vs-actual: -0.130 (p<0.035)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  23
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  39
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  11
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  38
+
+*Functional Component Group: 38
+    * Corr. w/ SUPPORT: 0.137 (p<0.027)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  28
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  43
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   9
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  27
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  23
+
+ Functional Component Group: 39
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  10
+
+*Functional Component Group: 40
+    * Corr. w/ SUPPORT: 0.131 (p<0.035)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  22
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  31
+
+ Functional Component Group: 41
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  24
+
+ Functional Component Group: 42
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  13
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   5
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  31
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  40
+
+*Functional Component Group: 43
+    * Corr. w/ MAIN-IDEA: -0.127 (p<0.041)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  20
+
+ Functional Component Group: 44
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  15
+
+ Functional Component Group: 45
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  19
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  43
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  38
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  27
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  26
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  19
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  34
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   3
+
+*Functional Component Group: 46
+    * Corr. w/ SUPPORT: -0.253 (p<0.000)
+    * Corr. w/ MAIN-IDEA: -0.177 (p<0.004)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   0
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   8
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   4
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  45
+
+ Functional Component Group: 47
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  25
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  21
+
+ Functional Component Group: 48
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  14
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  47
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  24
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  18
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  44
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   3
+
+ Functional Component Group: 49
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  28
+
+*Functional Component Group: 50
+    * Corr. w/ MAIN-IDEA: 0.153 (p<0.014)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  45
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   9
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  16
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   3
+
+ Functional Component Group: 51
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  39
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  19
+
+ Functional Component Group: 52
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  13
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  24
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  18
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:   3
+
+*Functional Component Group: 53
+    * Corr. w/ MAIN-IDEA: 0.156 (p<0.012)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:   2
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  40
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  37
+
+ Functional Component Group: 54
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  11
+
+ Functional Component Group: 55
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  19
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  29
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  19
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  26
+
+*Functional Component Group: 56
+    * Corr. w/ SUPPORT: 0.159 (p<0.010)
+    * Corr. w/ MAIN-IDEA: 0.207 (p<0.001)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  30
+
+ Functional Component Group: 57
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:   8
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   0
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  12
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  37
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  38
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  29
+
+*Functional Component Group: 58
+    * Corr. w/ SUPPORT: 0.248 (p<0.000)
+    * Corr. w/ MAIN-IDEA: 0.227 (p<0.000)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  21
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:  34
+
+*Functional Component Group: 59
+    * Corr. w/ SUPPORT: -0.136 (p<0.029)
+    * Corr. w/ MAIN-IDEA: -0.131 (p<0.035)
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  44
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  35
+
+ Functional Component Group: 60
+    - Loading: NEGATIVE, Model:      SUPPORT, Component ID:   6
+
+*Functional Component Group: 61
+    * Corr. w/ SUPPORT: 0.166 (p<0.007)
+    * Corr. w/ MAIN-IDEA: 0.194 (p<0.002)
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  27
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  40
+
+ Functional Component Group: 62
+    - Loading: NEGATIVE, Model:    MAIN-IDEA, Component ID:  46
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  41
+
+*Functional Component Group: 63
+    * Corr. w/ MAIN-IDEA: 0.210 (p<0.001)
+    - Loading: POSITIVE, Model:    MAIN-IDEA, Component ID:  35
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  20
+    - Loading: POSITIVE, Model:      SUPPORT, Component ID:  22
+
