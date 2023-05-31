@@ -4,7 +4,7 @@
 
 ## Paper
 
-James Fiacco, David Adamson, Carolyn P Rose. 2023. Towards extracting and understanding the implicit rubrics of transformer based automated essay scoring models. In *Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023)*. To be published.
+James Fiacco, David Adamson, Carolyn P Rosé. 2023. Towards extracting and understanding the implicit rubrics of transformer based automated essay scoring models. In *Proceedings of the 18th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2023)*. To be published.
 
 ## Graphical Tool
 
